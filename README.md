@@ -1,4 +1,4 @@
-project doesnt work. need help
+project doesnt work. I needed help
 
 # wooWoopX-AMM-DoraHacks-Aptos-Ctrl-MOVE-Hackathon-
 
