@@ -1,3 +1,5 @@
+project doesnt work. need help
+
 # wooWoopX-AMM-DoraHacks-Aptos-Ctrl-MOVE-Hackathon-
 
 This AMM is designed to work with Aptos and Move. I am looking for developers to contribute so please contact me upon your interest! The project is on DoraHacks as https://dorahacks.io/buidl/32788. I am enrolled in the DoraHAcks Aptos Ctrl+MOVE Hackathon https://dorahacks.io/hackathon/aptos-ctrlmove-hackathon/buidl
